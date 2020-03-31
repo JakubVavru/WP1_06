@@ -55,8 +55,6 @@ if ($rope && $knife && $wood) {
     echo "Nunchaky<br>";
 } if ($knife && $wood) {
     echo "Kopí<br>";
-} else {
-    echo "Nedostatek materiálu<br>";
 }
 
 ?>
