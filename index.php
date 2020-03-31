@@ -48,13 +48,13 @@ if ($knife) {
 <?php
 
 if ($rope && $knife && $wood) {
-    echo "Luk<br>";
+    echo "<img src="bow.jpg" alt="Luk">";
 } if ($nails && $wood) {
-    echo "Pálka s hřebíky<br>";
+    echo "<img src="bwn.jpg" alt="Pálka s hřebíky"><br>";
 } if ($rope && $wood) {
-    echo "Nunchaky<br>";
+    echo "<img src="nun.jpg" alt="Nunchaky"><br>";
 } if ($knife && $wood) {
-    echo "Kopí<br>";
+    echo "<img src="spear.png" alt="Kopí"><br>";
 }
 
 ?>
