@@ -1,6 +1,6 @@
 <?php
 $wood = true;
-$rope = true;
+$rope = false;
 $nails = true;
 $knife = true;
 ?>
